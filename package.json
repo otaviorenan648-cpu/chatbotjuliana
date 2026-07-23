@@ -1,0 +1,17 @@
+{
+  "name": "ton-bot-53991833588",
+  "version": "1.0.2",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "qrcode-terminal": "^0.12.0",
+    "express": "^4.19.2",
+    "pino": "^8.19.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
